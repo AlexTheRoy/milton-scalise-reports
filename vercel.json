@@ -6,17 +6,63 @@
     {
       "source": "/(.*)",
       "headers": [
-        { "key": "X-Content-Type-Options", "value": "nosniff" },
-        { "key": "X-Frame-Options", "value": "SAMEORIGIN" },
-        { "key": "Referrer-Policy", "value": "strict-origin-when-cross-origin" },
-        { "key": "X-Robots-Tag", "value": "noindex, nofollow" }
+        {
+          "key": "X-Content-Type-Options",
+          "value": "nosniff"
+        },
+        {
+          "key": "X-Frame-Options",
+          "value": "SAMEORIGIN"
+        },
+        {
+          "key": "Referrer-Policy",
+          "value": "strict-origin-when-cross-origin"
+        },
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, nofollow"
+        }
       ]
     },
     {
       "source": "/",
       "headers": [
-        { "key": "Cache-Control", "value": "public, max-age=0, must-revalidate" }
+        {
+          "key": "Cache-Control",
+          "value": "public, max-age=0, must-revalidate"
+        }
       ]
+    },
+    {
+      "source": "/(.*)\\.html",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "public, max-age=0, must-revalidate"
+        }
+      ]
+    }
+  ],
+  "redirects": [
+    {
+      "source": "/Milton-Scalise-Campaign-Overview-Last-3-Months-10-12-26",
+      "destination": "/Milton-Scalise-Campaign-Overview-Last-3-Months-10-13-26",
+      "permanent": false
+    },
+    {
+      "source": "/Milton-Scalise-Campaign-Overview-Last-3-Months-10-12-26.html",
+      "destination": "/Milton-Scalise-Campaign-Overview-Last-3-Months-10-13-26",
+      "permanent": false
+    },
+    {
+      "source": "/Milton-Scalise-Home-Campaign-Performance-Last-3-Months-10-12-26",
+      "destination": "/Milton-Scalise-Home-Campaign-Performance-Last-3-Months-10-13-26",
+      "permanent": false
+    },
+    {
+      "source": "/Milton-Scalise-Home-Campaign-Performance-Last-3-Months-10-12-26.html",
+      "destination": "/Milton-Scalise-Home-Campaign-Performance-Last-3-Months-10-13-26",
+      "permanent": false
     }
   ]
 }
