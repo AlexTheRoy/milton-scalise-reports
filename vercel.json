@@ -46,22 +46,42 @@
   "redirects": [
     {
       "source": "/Milton-Scalise-Campaign-Overview-Last-3-Months-10-12-26",
-      "destination": "/Milton-Scalise-Campaign-Overview-Last-3-Months-10-13-26",
+      "destination": "/Milton-Scalise-Campaign-Overview-Last-3-Months-10-27-26",
       "permanent": false
     },
     {
       "source": "/Milton-Scalise-Campaign-Overview-Last-3-Months-10-12-26.html",
-      "destination": "/Milton-Scalise-Campaign-Overview-Last-3-Months-10-13-26",
+      "destination": "/Milton-Scalise-Campaign-Overview-Last-3-Months-10-27-26",
+      "permanent": false
+    },
+    {
+      "source": "/Milton-Scalise-Campaign-Overview-Last-3-Months-10-13-26",
+      "destination": "/Milton-Scalise-Campaign-Overview-Last-3-Months-10-27-26",
+      "permanent": false
+    },
+    {
+      "source": "/Milton-Scalise-Campaign-Overview-Last-3-Months-10-13-26.html",
+      "destination": "/Milton-Scalise-Campaign-Overview-Last-3-Months-10-27-26",
       "permanent": false
     },
     {
       "source": "/Milton-Scalise-Home-Campaign-Performance-Last-3-Months-10-12-26",
-      "destination": "/Milton-Scalise-Home-Campaign-Performance-Last-3-Months-10-13-26",
+      "destination": "/Milton-Scalise-Home-Campaign-Performance-Last-3-Months-10-27-26",
       "permanent": false
     },
     {
       "source": "/Milton-Scalise-Home-Campaign-Performance-Last-3-Months-10-12-26.html",
-      "destination": "/Milton-Scalise-Home-Campaign-Performance-Last-3-Months-10-13-26",
+      "destination": "/Milton-Scalise-Home-Campaign-Performance-Last-3-Months-10-27-26",
+      "permanent": false
+    },
+    {
+      "source": "/Milton-Scalise-Home-Campaign-Performance-Last-3-Months-10-13-26",
+      "destination": "/Milton-Scalise-Home-Campaign-Performance-Last-3-Months-10-27-26",
+      "permanent": false
+    },
+    {
+      "source": "/Milton-Scalise-Home-Campaign-Performance-Last-3-Months-10-13-26.html",
+      "destination": "/Milton-Scalise-Home-Campaign-Performance-Last-3-Months-10-27-26",
       "permanent": false
     }
   ]
