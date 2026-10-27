@@ -5,7 +5,6 @@ zip,state,county,city,home_leads,reached,attempting_contact,no_status_yet,quoted
 30041,GA,Forsyth,Cumming,6,1,4,1,1,0,1,0,16.7%,16.7%,16.7%
 30265,GA,Coweta,Newnan,5,1,2,2,1,0,1,0,20.0%,20.0%,20.0%
 31548,GA,Camden,Kingsland,4,2,1,1,1,0,1,0,50.0%,25.0%,25.0%
-30582,GA,Towns,Young Harris,2,1,1,0,1,0,1,0,50.0%,50.0%,50.0%
 31021,GA,Laurens,Dublin,2,1,1,0,1,0,1,0,50.0%,50.0%,50.0%
 30083,GA,DeKalb,Stone Mountain,5,2,2,1,2,2,0,1,40.0%,40.0%,0.0%
 30052,GA,Walton,Loganville,17,3,12,2,1,1,0,2,17.6%,5.9%,0.0%
@@ -131,6 +130,7 @@ zip,state,county,city,home_leads,reached,attempting_contact,no_status_yet,quoted
 30542,GA,Hall,Flowery Branch,2,0,1,1,0,0,0,0,0.0%,0.0%,0.0%
 30557,GA,Stephens,Martin,2,1,1,0,0,0,0,1,50.0%,0.0%,0.0%
 30563,GA,Habersham,Mount Airy,2,0,1,1,0,0,0,0,0.0%,0.0%,0.0%
+30582,GA,Towns,Young Harris,2,0,2,0,0,0,0,0,0.0%,0.0%,0.0%
 30628,GA,Madison,Colbert,2,0,2,0,0,0,0,0,0.0%,0.0%,0.0%
 30643,GA,Hart,Hartwell,2,0,2,0,0,0,0,0,0.0%,0.0%,0.0%
 30740,GA,Whitfield,Rocky Face,2,0,2,0,0,0,0,0,0.0%,0.0%,0.0%
