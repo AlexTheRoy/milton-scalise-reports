@@ -143,6 +143,16 @@
       "source": "/Milton-Scalise-Monthly-Sales-by-Source-10-27-26.html",
       "destination": "/Milton-Scalise-Monthly-Sales-by-Source-11-10-26",
       "permanent": false
+    },
+    {
+      "source": "/Milton-Scalise-SEO-Audit-10-12-26",
+      "destination": "/Milton-Scalise-SEO-Audit-11-10-26",
+      "permanent": false
+    },
+    {
+      "source": "/Milton-Scalise-SEO-Audit-10-12-26.html",
+      "destination": "/Milton-Scalise-SEO-Audit-11-10-26",
+      "permanent": false
     }
   ]
 }
