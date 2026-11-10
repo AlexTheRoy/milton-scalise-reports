@@ -2,6 +2,7 @@ zip,state,county,city,home_leads,reached,attempting_contact,no_status_yet,quoted
 30213,GA,Fulton,Fairburn,14,4,9,1,3,1,2,0,28.6%,21.4%,14.3%
 30813,GA,Columbia,Grovetown,10,2,6,2,1,0,1,2,20.0%,10.0%,10.0%
 30041,GA,Forsyth,Cumming,6,1,4,1,1,0,1,0,16.7%,16.7%,16.7%
+30265,GA,Coweta,Newnan,6,1,3,2,1,0,1,0,16.7%,16.7%,16.7%
 31520,GA,Glynn,Brunswick,4,2,1,1,1,0,1,0,50.0%,25.0%,25.0%
 31548,GA,Camden,Kingsland,3,1,0,2,1,0,1,0,33.3%,33.3%,33.3%
 31021,GA,Laurens,Dublin,2,1,1,0,1,0,1,0,50.0%,50.0%,50.0%
@@ -43,34 +44,33 @@ zip,state,county,city,home_leads,reached,attempting_contact,no_status_yet,quoted
 30253,GA,Henry,McDonough,7,1,4,2,0,0,0,0,14.3%,0.0%,0.0%
 30349,GA,Fulton,Atlanta,7,1,5,1,0,0,0,0,14.3%,0.0%,0.0%
 30034,GA,DeKalb,Decatur,6,1,3,2,0,0,0,1,16.7%,0.0%,0.0%
+30060,GA,Cobb,Marietta,6,0,2,4,0,0,0,0,0.0%,0.0%,0.0%
 30094,GA,Rockdale,Conyers,6,0,4,2,0,0,0,0,0.0%,0.0%,0.0%
 30228,GA,Henry,Hampton,6,1,5,0,0,0,0,1,16.7%,0.0%,0.0%
-30265,GA,Coweta,Newnan,6,1,3,2,0,0,0,0,16.7%,0.0%,0.0%
 30534,GA,Dawson,Dawsonville,6,0,5,1,0,0,0,0,0.0%,0.0%,0.0%
 30680,GA,Barrow,Winder,6,1,3,2,0,0,0,1,16.7%,0.0%,0.0%
 31216,GA,Bibb,Macon,6,1,2,3,0,0,0,1,16.7%,0.0%,0.0%
 30058,GA,DeKalb,Lithonia,5,0,4,1,0,0,0,0,0.0%,0.0%,0.0%
-30060,GA,Cobb,Marietta,5,0,2,3,0,0,0,0,0.0%,0.0%,0.0%
 30132,GA,Paulding,Dallas,5,0,3,2,0,0,0,0,0.0%,0.0%,0.0%
 30180,GA,Carroll,Villa Rica,5,0,2,3,0,0,0,0,0.0%,0.0%,0.0%
 30294,GA,DeKalb,Ellenwood,5,2,2,1,0,0,0,2,40.0%,0.0%,0.0%
 30296,GA,Clayton,Riverdale,5,1,3,1,0,0,0,1,20.0%,0.0%,0.0%
 30721,GA,Whitfield,Dalton,5,0,3,2,0,0,0,0,0.0%,0.0%,0.0%
 31602,GA,Lowndes,Valdosta,5,0,3,2,0,0,0,0,0.0%,0.0%,0.0%
+31705,GA,Dougherty,Albany,5,1,3,1,0,0,0,0,20.0%,0.0%,0.0%
 30011,GA,Barrow,Auburn,4,2,1,1,0,0,0,1,50.0%,0.0%,0.0%
 30101,GA,Cobb,Acworth,4,0,3,1,0,0,0,0,0.0%,0.0%,0.0%
+30115,GA,Cherokee,Canton,4,0,2,2,0,0,0,0,0.0%,0.0%,0.0%
 30122,GA,Douglas,Lithia Springs,4,0,3,1,0,0,0,0,0.0%,0.0%,0.0%
 30127,GA,Cobb,Powder Springs,4,0,4,0,0,0,0,0,0.0%,0.0%,0.0%
 30157,GA,Paulding,Dallas,4,1,3,0,0,0,0,1,25.0%,0.0%,0.0%
 30223,GA,Spalding,Griffin,4,0,2,2,0,0,0,0,0.0%,0.0%,0.0%
 30741,GA,Walker,Rossville,4,1,2,1,0,0,0,1,25.0%,0.0%,0.0%
 31312,GA,Effingham,Guyton,4,1,3,0,0,0,0,1,25.0%,0.0%,0.0%
-31705,GA,Dougherty,Albany,4,1,3,0,0,0,0,0,25.0%,0.0%,0.0%
 39828,GA,Grady,Cairo,4,0,4,0,0,0,0,0,0.0%,0.0%,0.0%
 30004,GA,Fulton,Alpharetta,3,0,3,0,0,0,0,0,0.0%,0.0%,0.0%
 30019,GA,Gwinnett,Dacula,3,1,2,0,0,0,0,1,33.3%,0.0%,0.0%
 30044,GA,Gwinnett,Lawrenceville,3,0,2,1,0,0,0,0,0.0%,0.0%,0.0%
-30115,GA,Cherokee,Canton,3,0,2,1,0,0,0,0,0.0%,0.0%,0.0%
 30121,GA,Bartow,Cartersville,3,0,2,1,0,0,0,0,0.0%,0.0%,0.0%
 30233,GA,Butts,Jackson,3,1,2,0,0,0,0,1,33.3%,0.0%,0.0%
 30236,GA,Clayton,Jonesboro,3,0,1,2,0,0,0,0,0.0%,0.0%,0.0%
@@ -89,6 +89,7 @@ zip,state,county,city,home_leads,reached,attempting_contact,no_status_yet,quoted
 31513,GA,Appling,Baxley,3,0,3,0,0,0,0,0,0.0%,0.0%,0.0%
 31537,GA,Charlton,Folkston,3,0,2,1,0,0,0,0,0.0%,0.0%,0.0%
 31701,GA,Dougherty,Albany,3,1,1,1,0,0,0,0,33.3%,0.0%,0.0%
+31750,GA,Ben Hill,Fitzgerald,3,0,1,2,0,0,0,0,0.0%,0.0%,0.0%
 31907,GA,Muscogee,Columbus,3,0,2,1,0,0,0,0,0.0%,0.0%,0.0%
 30013,GA,Rockdale,Conyers,2,0,2,0,0,0,0,0,0.0%,0.0%,0.0%
 30014,GA,Newton,Covingtone,2,0,1,1,0,0,0,0,0.0%,0.0%,0.0%
@@ -151,7 +152,6 @@ zip,state,county,city,home_leads,reached,attempting_contact,no_status_yet,quoted
 31632,GA,Lowndes,Hahira,2,0,2,0,0,0,0,0,0.0%,0.0%,0.0%
 31634,GA,Clinch,Homerville,2,0,2,0,0,0,0,0,0.0%,0.0%,0.0%
 31707,GA,Dougherty,Albany,2,1,1,0,0,0,0,0,50.0%,0.0%,0.0%
-31750,GA,Ben Hill,Fitzgerald,2,0,1,1,0,0,0,0,0.0%,0.0%,0.0%
 31774,GA,Irwin,Ocilla,2,0,2,0,0,0,0,0,0.0%,0.0%,0.0%
 31792,GA,Thomas,Thomasville,2,0,2,0,0,0,0,0,0.0%,0.0%,0.0%
 31909,GA,Muscogee,Columbus,2,0,1,1,0,0,0,0,0.0%,0.0%,0.0%

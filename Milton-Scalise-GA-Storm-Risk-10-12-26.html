@@ -101,10 +101,11 @@ body{font-family:'Inter',system-ui,sans-serif;background:var(--gray);color:var(-
   .kc,.fpanel,.panel,.mapwrap{break-inside:avoid;}
 }
 @media(max-width:900px){
-  .shell{grid-template-columns:1fr;}
+  .shell{grid-template-columns:minmax(0,1fr);}
   .side{position:static;height:auto;}
   .side nav{display:none;}
-  .main{padding:32px 22px;}
+  .main{padding:32px 22px;min-width:0;}
+  .main .panel{overflow-x:auto;max-width:100%;}
   .kgrid{grid-template-columns:1fr 1fr;}
   .split,.splitm{grid-template-columns:1fr;}
 }
